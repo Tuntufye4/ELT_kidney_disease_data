@@ -21,5 +21,5 @@ This dbt project focuses on restructuring and transforming the "Kidney Disease" 
 
 
   ```bash
-  git clone 
+  git clone https://github.com/Tuntufye4/ELT_kidney_disease_data.git
  
