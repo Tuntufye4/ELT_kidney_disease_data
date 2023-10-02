@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: kidney_disease_source
+    schema: kidney
+    database: kidney_data
+
+    tables:
+      - name: kidney_disease
