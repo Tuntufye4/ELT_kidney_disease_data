@@ -17,6 +17,8 @@ This dbt project focuses on restructuring and transforming the "Kidney Disease" 
 
 - **dbt**
 
+- **dbt-postgres 1.6.4**
+
 - **Python and Pipenv**
 
 
