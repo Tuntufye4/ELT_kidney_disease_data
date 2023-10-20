@@ -1,4 +1,4 @@
-# Kidney Disease Dataset Restructuring with dbt
+# Kidney Disease Dataset Restructuring with dbt (Extract, Load, Transform)
 
 This dbt project focuses on restructuring and transforming the "Kidney Disease" dataset using [dbt](https://www.getdbt.com/)  and PostgreSQL. The project aims to provide a clean, structured, and well-documented data pipeline for analyzing and gaining insights from the dataset.
 
@@ -6,7 +6,6 @@ This dbt project focuses on restructuring and transforming the "Kidney Disease" 
 
 - [Project Overview](#project-overview)
 - [Requirements](#requirements)
-- [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 
 
